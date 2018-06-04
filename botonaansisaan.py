@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 import datetime
-#url = "https://api.telegram.org/bot606742085:AAGKWDvVOH6R71mgPgeJdDkT4llp80vlso4/"
+token = "606742085:AAGKWDvVOH6R71mgPgeJdDkT4llp80vlso4"
 
 class BotHandler:
 
