@@ -1,1 +1,1 @@
-web: python botonaansisaan.py
+bot: python botonaansisaan.py
