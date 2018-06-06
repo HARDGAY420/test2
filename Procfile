@@ -1,1 +1,1 @@
-bot: python botonaansisaan.py
+web: gunicorn botonaansisaan:app
