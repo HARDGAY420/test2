@@ -1,1 +1,1 @@
-web: gunicorn botonaansisaan
+web: gunicorn test2:botonaansisaan
