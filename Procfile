@@ -1,1 +1,1 @@
-web: gunicorn botonaansisaan:app
+web: gunicorn botonaansisaan:create_app()
